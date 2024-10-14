@@ -14,7 +14,7 @@ A simple command-line interface (CLI) task manager written in Go.
 
 If you have Make installed on your system, you can simply run:
 ```
-make install
+make build
 ```
 
 Otherwise, you can follow the steps below:
