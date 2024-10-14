@@ -12,6 +12,13 @@ A simple command-line interface (CLI) task manager written in Go.
 
 ## Installation
 
+If you have Make installed on your system, you can simply run:
+```
+make install
+```
+
+Otherwise, you can follow the steps below:
+
 1. Ensure you have Go installed on your system.
 2. Clone this repository:
    ```
